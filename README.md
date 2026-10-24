@@ -1,2 +1,2 @@
 # Data-Analytics-Track
-Acting Data Analytics in "Elevvo" internship 
+Acting Data Analytics in "Elevvo" internship program
