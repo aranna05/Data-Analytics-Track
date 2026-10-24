@@ -146,9 +146,3 @@ Charts are saved at **300 DPI** to `figures/` when the notebook runs, in a consi
 - Add a Kaggle submission step using `test.csv`.
 
 ---
-
-## 📚 References
-
-- [Kaggle Titanic data page](https://www.kaggle.com/c/titanic/data)
-- [Data Science Solutions: Startup Workflow](https://www.amazon.com/Data-Science-Solutions-Startup-Workflow/dp/1520545312) (workflow style reference)
-- [A journey through Titanic](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)
